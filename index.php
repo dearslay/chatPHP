@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-  <title>Exercice</title>
+  <title>Chat</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500&display=swap" rel="stylesheet"> 
   <link rel="icon" href="favicon.png" />
